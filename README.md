@@ -5,3 +5,4 @@ Number of things pending:
 2) Login controller.
 3) UI Implementation.
 4) Mobile App
+5*) Add jenkins
